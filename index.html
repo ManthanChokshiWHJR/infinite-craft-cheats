@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Infinite Craft Cheats</title>
+  </head>
+  <body>
+    <form id="form">
+      <input type="text" name="emoji" placeholder="Emoji" autocomplete="off" />
+      <input
+        type="text"
+        name="object"
+        placeholder="Object"
+        autocomplete="off"
+      />
+      <input type="submit" />
+    </form>
+    <textarea id="output"></textarea>
+    <button id="copy">copy</button>
+    <script>
+      const form = document.getElementById('form');
+      const output = document.getElementById('output');
+      const copy = document.getElementById('copy');
+
+      function safeToString(x) {
+        return x.replaceAll('"', '\\"');
+      }
+
+      form.addEventListener('submit', (e) => {
+        e.preventDefault();
+
+        const name = e.target.object.value;
+        const emoji = e.target.emoji.value;
+
+        output.value = `const name = "${safeToString(name)}";
+const emoji = "${safeToString(emoji)}";
+let data;
+if (localStorage.getItem('infinite-craft-data')) {
+    data = JSON.parse(localStorage.getItem('infinite-craft-data'));
+} else {
+    data = {
+    elements: [
+        { text: 'Water', emoji: '💧', discovered: false },
+        { text: 'Fire', emoji: '🔥', discovered: false },
+        { text: 'Wind', emoji: '🌬️', discovered: false },
+        { text: 'Earth', emoji: '🌍', discovered: false },
+    ],
+    darkMode: false,
+    };
+}
+if (data.elements.find((x) => x.name === name && x.emoji === emoji)) {
+    console.log('ELEMENT ALREADY EXISTS');
+} else {
+    data.elements.push({ text: name, emoji, discovered: false });
+}
+localStorage.setItem('infinite-craft-data', JSON.stringify(data));`;
+      });
+
+      copy.addEventListener('click', async () => {
+        await navigator.clipboard.writeText(output.value);
+        alert('copied');
+      });
+    </script>
+  </body>
+</html>

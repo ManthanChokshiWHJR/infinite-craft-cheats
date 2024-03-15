@@ -1,0 +1,1852 @@
+{
+    "infinite-craft-data": {
+        "elements": [
+            {
+                "text": "Water",
+                "emoji": "💧",
+                "discovered": false
+            },
+            {
+                "text": "Fire",
+                "emoji": "🔥",
+                "discovered": false
+            },
+            {
+                "text": "Wind",
+                "emoji": "🌬️",
+                "discovered": false
+            },
+            {
+                "text": "Earth",
+                "emoji": "🌍",
+                "discovered": false
+            },
+            {
+                "text": "Steam",
+                "emoji": "💨",
+                "discovered": false
+            },
+            {
+                "text": "Lava",
+                "emoji": "🌋",
+                "discovered": false
+            },
+            {
+                "text": "Volcano",
+                "emoji": "🌋",
+                "discovered": false
+            },
+            {
+                "text": "Mountain",
+                "emoji": "🏔️",
+                "discovered": false
+            },
+            {
+                "text": "Mountain Range",
+                "emoji": "🏔️",
+                "discovered": false
+            },
+            {
+                "text": "Plant",
+                "emoji": "🌱",
+                "discovered": false
+            },
+            {
+                "text": "Tree",
+                "emoji": "🌳",
+                "discovered": false
+            },
+            {
+                "text": "Forest",
+                "emoji": "🌲",
+                "discovered": false
+            },
+            {
+                "text": "Jungle",
+                "emoji": "🌴",
+                "discovered": false
+            },
+            {
+                "text": "Smoke",
+                "emoji": "💨",
+                "discovered": false
+            },
+            {
+                "text": "Swamp",
+                "emoji": "🐊",
+                "discovered": false
+            },
+            {
+                "text": "Dragon",
+                "emoji": "🐉",
+                "discovered": false
+            },
+            {
+                "text": "Marsh",
+                "emoji": "🌿",
+                "discovered": false
+            },
+            {
+                "text": "Lake",
+                "emoji": "🌊",
+                "discovered": false
+            },
+            {
+                "text": "Ocean",
+                "emoji": "🌊",
+                "discovered": false
+            },
+            {
+                "text": "Fish",
+                "emoji": "🐟",
+                "discovered": false
+            },
+            {
+                "text": "Seaweed",
+                "emoji": "🌊",
+                "discovered": false
+            },
+            {
+                "text": "Fishing",
+                "emoji": "🎣",
+                "discovered": false
+            },
+            {
+                "text": "Sushi",
+                "emoji": "🍣",
+                "discovered": false
+            },
+            {
+                "text": "Cloud",
+                "emoji": "☁️",
+                "discovered": false
+            },
+            {
+                "text": "Rain",
+                "emoji": "🌧️",
+                "discovered": false
+            },
+            {
+                "text": "Lightning",
+                "emoji": "⚡️",
+                "discovered": false
+            },
+            {
+                "text": "Thunder",
+                "emoji": "⛈️",
+                "discovered": false
+            },
+            {
+                "text": "Electric Eel",
+                "emoji": "🦎",
+                "discovered": false
+            },
+            {
+                "text": "Electricity",
+                "emoji": "⚡️",
+                "discovered": false
+            },
+            {
+                "text": "Storm",
+                "emoji": "⛈️",
+                "discovered": false
+            },
+            {
+                "text": "Eel",
+                "emoji": "🦎",
+                "discovered": false
+            },
+            {
+                "text": "Venus Flytrap",
+                "emoji": "🪲",
+                "discovered": false
+            },
+            {
+                "text": "Salmon",
+                "emoji": "🐟",
+                "discovered": false
+            },
+            {
+                "text": "Rainbow",
+                "emoji": "🌈",
+                "discovered": false
+            },
+            {
+                "text": "Mermaid",
+                "emoji": "🧜‍♀️",
+                "discovered": false
+            },
+            {
+                "text": "Flower",
+                "emoji": "🌸",
+                "discovered": false
+            },
+            {
+                "text": "Garden",
+                "emoji": "🌱",
+                "discovered": false
+            },
+            {
+                "text": "Park",
+                "emoji": "🏞️",
+                "discovered": false
+            },
+            {
+                "text": "Bear",
+                "emoji": "🐻",
+                "discovered": false
+            },
+            {
+                "text": "Barbecue",
+                "emoji": "🍖",
+                "discovered": false
+            },
+            {
+                "text": "Grill",
+                "emoji": "🍖",
+                "discovered": false
+            },
+            {
+                "text": "Kite",
+                "emoji": "🪁",
+                "discovered": false
+            },
+            {
+                "text": "Care Bear",
+                "emoji": "🐻",
+                "discovered": false
+            },
+            {
+                "text": "Battery",
+                "emoji": "🔋",
+                "discovered": false
+            },
+            {
+                "text": "Island",
+                "emoji": "🏝️",
+                "discovered": false
+            },
+            {
+                "text": "Continent",
+                "emoji": "🌎",
+                "discovered": false
+            },
+            {
+                "text": "Zeus",
+                "emoji": "⚡️",
+                "discovered": false
+            },
+            {
+                "text": "Poseidon",
+                "emoji": "🌊",
+                "discovered": false
+            },
+            {
+                "text": "Asia",
+                "emoji": "🌏",
+                "discovered": false
+            },
+            {
+                "text": "Eden",
+                "emoji": "🌳",
+                "discovered": false
+            },
+            {
+                "text": "Adam",
+                "emoji": "👨",
+                "discovered": false
+            },
+            {
+                "text": "Eve",
+                "emoji": "🌙",
+                "discovered": false
+            },
+            {
+                "text": "Human",
+                "emoji": "👨",
+                "discovered": false
+            },
+            {
+                "text": "Cyborg",
+                "emoji": "🤖",
+                "discovered": false
+            },
+            {
+                "text": "Atlantis",
+                "emoji": "🌊",
+                "discovered": false
+            },
+            {
+                "text": "Ribs",
+                "emoji": "🍖",
+                "discovered": false
+            },
+            {
+                "text": "Unicorn",
+                "emoji": "🦄",
+                "discovered": false
+            },
+            {
+                "text": "Phoenix",
+                "emoji": "🔥",
+                "discovered": false
+            },
+            {
+                "text": "Cage",
+                "emoji": "📦",
+                "discovered": false
+            },
+            {
+                "text": "Prisoner",
+                "emoji": "👮",
+                "discovered": false
+            },
+            {
+                "text": "Prison",
+                "emoji": "🔒",
+                "discovered": false
+            },
+            {
+                "text": "Criminal",
+                "emoji": "🔪",
+                "discovered": false
+            },
+            {
+                "text": "Thief",
+                "emoji": "🕵️",
+                "discovered": false
+            },
+            {
+                "text": "Jail",
+                "emoji": "🚨",
+                "discovered": false
+            },
+            {
+                "text": "Firebird",
+                "emoji": "🐦",
+                "discovered": false
+            },
+            {
+                "text": "Centaur",
+                "emoji": "🦄",
+                "discovered": false
+            },
+            {
+                "text": "Robot",
+                "emoji": "🤖",
+                "discovered": false
+            },
+            {
+                "text": "Android",
+                "emoji": "🤖",
+                "discovered": false
+            },
+            {
+                "text": "Car",
+                "emoji": "🚗",
+                "discovered": false
+            },
+            {
+                "text": "Driver",
+                "emoji": "🚗",
+                "discovered": false
+            },
+            {
+                "text": "Picnic",
+                "emoji": "🧺",
+                "discovered": false
+            },
+            {
+                "text": "Sumo",
+                "emoji": "🥋",
+                "discovered": false
+            },
+            {
+                "text": "Family",
+                "emoji": "👨‍👩‍",
+                "discovered": false
+            },
+            {
+                "text": "Baby",
+                "emoji": "👶",
+                "discovered": false
+            },
+            {
+                "text": "Child",
+                "emoji": "👶",
+                "discovered": false
+            },
+            {
+                "text": "Road Trip",
+                "emoji": "🚗",
+                "discovered": false
+            },
+            {
+                "text": "Truck",
+                "emoji": "🚚",
+                "discovered": false
+            },
+            {
+                "text": "Tank",
+                "emoji": "🛢️",
+                "discovered": false
+            },
+            {
+                "text": "Soldier",
+                "emoji": "💂",
+                "discovered": false
+            },
+            {
+                "text": "Army",
+                "emoji": "🚁",
+                "discovered": false
+            },
+            {
+                "text": "Spartan",
+                "emoji": "🏹",
+                "discovered": false
+            },
+            {
+                "text": "War Machine",
+                "emoji": "🤖",
+                "discovered": false
+            },
+            {
+                "text": "America",
+                "emoji": "🇺🇸",
+                "discovered": false
+            },
+            {
+                "text": "Chinese",
+                "emoji": "🇨🇳",
+                "discovered": false
+            },
+            {
+                "text": "Ford",
+                "emoji": "🚗",
+                "discovered": false
+            },
+            {
+                "text": "Chinatown",
+                "emoji": "🏮",
+                "discovered": false
+            },
+            {
+                "text": "Takeout",
+                "emoji": "🍱",
+                "discovered": false
+            },
+            {
+                "text": "Uber",
+                "emoji": "🚘",
+                "discovered": false
+            },
+            {
+                "text": "Freedom",
+                "emoji": "🗽",
+                "discovered": false
+            },
+            {
+                "text": "Liberty",
+                "emoji": "🗽",
+                "discovered": false
+            },
+            {
+                "text": "Politician",
+                "emoji": "🗳️",
+                "discovered": false
+            },
+            {
+                "text": "Triad",
+                "emoji": "🔺",
+                "discovered": false
+            },
+            {
+                "text": "Tricycle",
+                "emoji": "🚲",
+                "discovered": false
+            },
+            {
+                "text": "Bicycle",
+                "emoji": "🚲",
+                "discovered": false
+            },
+            {
+                "text": "Tandem",
+                "emoji": "🚴‍♀️",
+                "discovered": false
+            },
+            {
+                "text": "300",
+                "emoji": "🏹",
+                "discovered": false
+            },
+            {
+                "text": "Trump",
+                "emoji": "💩",
+                "discovered": false
+            },
+            {
+                "text": "President",
+                "emoji": "🇺🇸",
+                "discovered": false
+            },
+            {
+                "text": "First Family",
+                "emoji": "👨‍👩‍",
+                "discovered": false
+            },
+            {
+                "text": "Trumpet",
+                "emoji": "🎺",
+                "discovered": false
+            },
+            {
+                "text": "Statue",
+                "emoji": "🗽",
+                "discovered": false
+            },
+            {
+                "text": "Angel",
+                "emoji": "👼",
+                "discovered": false
+            },
+            {
+                "text": "Gabriel",
+                "emoji": "👼",
+                "discovered": false
+            },
+            {
+                "text": "Archangel",
+                "emoji": "👼",
+                "discovered": false
+            },
+            {
+                "text": "UPS",
+                "emoji": "📦",
+                "discovered": false
+            },
+            {
+                "text": "Adult",
+                "emoji": "👨‍🦳👩",
+                "discovered": false
+            },
+            {
+                "text": "Fallen Angel",
+                "emoji": "👼",
+                "discovered": false
+            },
+            {
+                "text": "Hercules",
+                "emoji": "🏹",
+                "discovered": false
+            },
+            {
+                "text": "Pegasus",
+                "emoji": "🦄",
+                "discovered": false
+            },
+            {
+                "text": "Farmer",
+                "emoji": "🚜",
+                "discovered": false
+            },
+            {
+                "text": "Apple",
+                "emoji": "🍎",
+                "discovered": false
+            },
+            {
+                "text": "Cider",
+                "emoji": "🍎",
+                "discovered": false
+            },
+            {
+                "text": "Alcohol",
+                "emoji": "🍷",
+                "discovered": false
+            },
+            {
+                "text": "Steam Engine",
+                "emoji": "🚂",
+                "discovered": false
+            },
+            {
+                "text": "Drunk",
+                "emoji": "🍺",
+                "discovered": false
+            },
+            {
+                "text": "Hangover",
+                "emoji": "🍷",
+                "discovered": false
+            },
+            {
+                "text": "Steampunk",
+                "emoji": "🕯️",
+                "discovered": false
+            },
+            {
+                "text": "Steam Baby",
+                "emoji": "👶",
+                "discovered": false
+            },
+            {
+                "text": "Newton",
+                "emoji": "🍎",
+                "discovered": false
+            },
+            {
+                "text": "Genius",
+                "emoji": "🧠",
+                "discovered": false
+            },
+            {
+                "text": "Einstein",
+                "emoji": "🧠",
+                "discovered": false
+            },
+            {
+                "text": "Theory",
+                "emoji": "💡",
+                "discovered": false
+            },
+            {
+                "text": "Gravity",
+                "emoji": "🌌",
+                "discovered": false
+            },
+            {
+                "text": "Fall",
+                "emoji": "🍂",
+                "discovered": false
+            },
+            {
+                "text": "Cliff",
+                "emoji": "🏜️",
+                "discovered": false
+            },
+            {
+                "text": "God",
+                "emoji": "🌌",
+                "discovered": false
+            },
+            {
+                "text": "Dionysus",
+                "emoji": "🍷",
+                "discovered": false
+            },
+            {
+                "text": "Creator",
+                "emoji": "👨‍🎨",
+                "discovered": false
+            },
+            {
+                "text": "Autumn",
+                "emoji": "🍂",
+                "discovered": false
+            },
+            {
+                "text": "Sparta",
+                "emoji": "🏹",
+                "discovered": false
+            },
+            {
+                "text": "Leonidas",
+                "emoji": "🏹",
+                "discovered": false
+            },
+            {
+                "text": "BBQ",
+                "emoji": "🍖",
+                "discovered": false
+            },
+            {
+                "text": "Audrey II",
+                "emoji": "🌵",
+                "discovered": false
+            },
+            {
+                "text": "Little Shop Of Horrors",
+                "emoji": "🌱",
+                "discovered": false
+            },
+            {
+                "text": "Jesus",
+                "emoji": "😇",
+                "discovered": false
+            },
+            {
+                "text": "Spartacus",
+                "emoji": "🏹",
+                "discovered": false
+            },
+            {
+                "text": "Resurrection",
+                "emoji": "🌹",
+                "discovered": false
+            },
+            {
+                "text": "Religion",
+                "emoji": "☪️",
+                "discovered": false
+            },
+            {
+                "text": "Church",
+                "emoji": "⛪",
+                "discovered": false
+            },
+            {
+                "text": "Zombie",
+                "emoji": "🧟",
+                "discovered": false
+            },
+            {
+                "text": "Zombie Jesus",
+                "emoji": "🧟‍♂️",
+                "discovered": false
+            },
+            {
+                "text": "Christianity",
+                "emoji": "✝️",
+                "discovered": false
+            },
+            {
+                "text": "Audrey Iii",
+                "emoji": "🌱",
+                "discovered": false
+            },
+            {
+                "text": "Seymour",
+                "emoji": "🌱",
+                "discovered": false
+            },
+            {
+                "text": "Seymour Butts",
+                "emoji": "🍑",
+                "discovered": false
+            },
+            {
+                "text": "Skewer",
+                "emoji": "🍖",
+                "discovered": false
+            },
+            {
+                "text": "Kebab",
+                "emoji": "🥙",
+                "discovered": false
+            },
+            {
+                "text": "Kite Surfer",
+                "emoji": "🪁",
+                "discovered": false
+            },
+            {
+                "text": "Robot Jesus",
+                "emoji": "🤖",
+                "discovered": false
+            },
+            {
+                "text": "Robot Zeus",
+                "emoji": "🤖",
+                "discovered": false
+            },
+            {
+                "text": "Aquaman",
+                "emoji": "🐠",
+                "discovered": false
+            },
+            {
+                "text": "Aquababy",
+                "emoji": "💦",
+                "discovered": false
+            },
+            {
+                "text": "Superman",
+                "emoji": "🦸",
+                "discovered": false
+            },
+            {
+                "text": "Superjesus",
+                "emoji": "🤘",
+                "discovered": false
+            },
+            {
+                "text": "Supertrump",
+                "emoji": "💩",
+                "discovered": false
+            },
+            {
+                "text": "Cult",
+                "emoji": "👽",
+                "discovered": false
+            },
+            {
+                "text": "Aquacult",
+                "emoji": "🐟",
+                "discovered": false
+            },
+            {
+                "text": "Sacrifice",
+                "emoji": "🔪",
+                "discovered": false
+            },
+            {
+                "text": "Ritual",
+                "emoji": "🔮",
+                "discovered": false
+            },
+            {
+                "text": "Baptism",
+                "emoji": "💦",
+                "discovered": false
+            },
+            {
+                "text": "Captain America",
+                "emoji": "🦅",
+                "discovered": false
+            },
+            {
+                "text": "Captain China",
+                "emoji": "🇨🇳⚓️",
+                "discovered": false
+            },
+            {
+                "text": "Chinese Food",
+                "emoji": "🥢",
+                "discovered": false
+            },
+            {
+                "text": "Chopsticks",
+                "emoji": "🥢",
+                "discovered": false
+            },
+            {
+                "text": "Warrior",
+                "emoji": "🗡️",
+                "discovered": false
+            },
+            {
+                "text": "King",
+                "emoji": "👑",
+                "discovered": false
+            },
+            {
+                "text": "Knight",
+                "emoji": "🤴",
+                "discovered": false
+            },
+            {
+                "text": "Samurai",
+                "emoji": "🥷",
+                "discovered": false
+            },
+            {
+                "text": "Shinto",
+                "emoji": "🎌",
+                "discovered": false
+            },
+            {
+                "text": "Japan",
+                "emoji": "🗾",
+                "discovered": false
+            },
+            {
+                "text": "Amaterasu",
+                "emoji": "🌞",
+                "discovered": false
+            },
+            {
+                "text": "Sun",
+                "emoji": "☀️",
+                "discovered": false
+            },
+            {
+                "text": "Supernova",
+                "emoji": "🌠",
+                "discovered": false
+            },
+            {
+                "text": "Black Hole",
+                "emoji": "🕳️",
+                "discovered": false
+            },
+            {
+                "text": "Dark Knight",
+                "emoji": "🌃",
+                "discovered": false
+            },
+            {
+                "text": "Queen",
+                "emoji": "👑",
+                "discovered": false
+            },
+            {
+                "text": "Love",
+                "emoji": "❤️",
+                "discovered": false
+            },
+            {
+                "text": "Rising Sun",
+                "emoji": "🌅",
+                "discovered": false
+            },
+            {
+                "text": "Shrine",
+                "emoji": "🛕",
+                "discovered": false
+            },
+            {
+                "text": "Temple",
+                "emoji": "🏯",
+                "discovered": false
+            },
+            {
+                "text": "Goddess",
+                "emoji": "🌸",
+                "discovered": false
+            },
+            {
+                "text": "Aphrodite",
+                "emoji": "💘",
+                "discovered": false
+            },
+            {
+                "text": "Eros",
+                "emoji": "💘",
+                "discovered": false
+            },
+            {
+                "text": "Heart",
+                "emoji": "❤️",
+                "discovered": false
+            },
+            {
+                "text": "Valentine",
+                "emoji": "💘",
+                "discovered": false
+            },
+            {
+                "text": "Valentine’s Day",
+                "emoji": "💘",
+                "discovered": false
+            },
+            {
+                "text": "Cupid",
+                "emoji": "💘",
+                "discovered": false
+            },
+            {
+                "text": "Star",
+                "emoji": "⭐️",
+                "discovered": false
+            },
+            {
+                "text": "Galaxy",
+                "emoji": "🌌",
+                "discovered": false
+            },
+            {
+                "text": "Wormhole",
+                "emoji": "🕳️",
+                "discovered": false
+            },
+            {
+                "text": "Trump Hole",
+                "emoji": "🕳️",
+                "discovered": false
+            },
+            {
+                "text": "Marriage",
+                "emoji": "💍",
+                "discovered": false
+            },
+            {
+                "text": "Divorce",
+                "emoji": "💔",
+                "discovered": false
+            },
+            {
+                "text": "Splitting Image",
+                "emoji": "👯",
+                "discovered": false
+            },
+            {
+                "text": "Devil",
+                "emoji": "😈",
+                "discovered": false
+            },
+            {
+                "text": "Demon",
+                "emoji": "👿",
+                "discovered": false
+            },
+            {
+                "text": "Satan",
+                "emoji": "😈",
+                "discovered": false
+            },
+            {
+                "text": "Zombie Satan",
+                "emoji": "👿",
+                "discovered": false
+            },
+            {
+                "text": "Meteor",
+                "emoji": "💫",
+                "discovered": false
+            },
+            {
+                "text": "Meteorite",
+                "emoji": "💫",
+                "discovered": false
+            },
+            {
+                "text": "Godzilla",
+                "emoji": "🦖",
+                "discovered": false
+            },
+            {
+                "text": "King Kong",
+                "emoji": "🦍",
+                "discovered": false
+            },
+            {
+                "text": "Monster",
+                "emoji": "👾",
+                "discovered": false
+            },
+            {
+                "text": "Trumpzilla",
+                "emoji": "🐉",
+                "discovered": false
+            },
+            {
+                "text": "Universe",
+                "emoji": "🌌",
+                "discovered": false
+            },
+            {
+                "text": "Cosmos",
+                "emoji": "🌌",
+                "discovered": false
+            },
+            {
+                "text": "Asteroid",
+                "emoji": "💫",
+                "discovered": false
+            },
+            {
+                "text": "Planet of the Apes",
+                "emoji": "🐒",
+                "discovered": false
+            },
+            {
+                "text": "Charlton Heston",
+                "emoji": "🎭",
+                "discovered": false
+            },
+            {
+                "text": "Monkey",
+                "emoji": "🐒",
+                "discovered": false
+            },
+            {
+                "text": "Ape",
+                "emoji": "🦍",
+                "discovered": false
+            },
+            {
+                "text": "Big Bang",
+                "emoji": "💥",
+                "discovered": false
+            },
+            {
+                "text": "Sword",
+                "emoji": "🗡️",
+                "discovered": false
+            },
+            {
+                "text": "Katana",
+                "emoji": "🗡️",
+                "discovered": false
+            },
+            {
+                "text": "Tokyo",
+                "emoji": "🗼",
+                "discovered": false
+            },
+            {
+                "text": "Ninja",
+                "emoji": "🥷",
+                "discovered": false
+            },
+            {
+                "text": "Oni",
+                "emoji": "👹",
+                "discovered": false
+            },
+            {
+                "text": "Donkey Kong",
+                "emoji": "🐒",
+                "discovered": false
+            },
+            {
+                "text": "Donkey Konga",
+                "emoji": "🐵",
+                "discovered": false
+            },
+            {
+                "text": "Donkey Konga 2",
+                "emoji": "🐵",
+                "discovered": false
+            },
+            {
+                "text": "Donkey Konga 3",
+                "emoji": "🐵",
+                "discovered": false
+            },
+            {
+                "text": "Donkey Konga 3: Tales of the Abyss",
+                "emoji": "🐵",
+                "discovered": false
+            },
+            {
+                "text": "Diddy Kong",
+                "emoji": "🐵",
+                "discovered": false
+            },
+            {
+                "text": "Mario",
+                "emoji": "🍄",
+                "discovered": false
+            },
+            {
+                "text": "Bowser",
+                "emoji": "🐸",
+                "discovered": false
+            },
+            {
+                "text": "Super Mario",
+                "emoji": "🍄",
+                "discovered": false
+            },
+            {
+                "text": "Super Mario Bros",
+                "emoji": "🍄",
+                "discovered": false
+            },
+            {
+                "text": "Super Trump",
+                "emoji": "💩",
+                "discovered": false
+            },
+            {
+                "text": "Bowser Jr.",
+                "emoji": "🐸",
+                "discovered": false
+            },
+            {
+                "text": "Ronin",
+                "emoji": "🏹",
+                "discovered": false
+            },
+            {
+                "text": "Bushido",
+                "emoji": "🌿",
+                "discovered": false
+            },
+            {
+                "text": "Samurai Warrior",
+                "emoji": "🥷",
+                "discovered": false
+            },
+            {
+                "text": "Mario Samurai",
+                "emoji": "🎮",
+                "discovered": false
+            },
+            {
+                "text": "Mud",
+                "emoji": "💩",
+                "discovered": false
+            },
+            {
+                "text": "Earthquake",
+                "emoji": "🌋",
+                "discovered": false
+            },
+            {
+                "text": "Rose",
+                "emoji": "🌹",
+                "discovered": false
+            },
+            {
+                "text": "Thorn",
+                "emoji": "🌹",
+                "discovered": false
+            },
+            {
+                "text": "Lotus",
+                "emoji": "🌺",
+                "discovered": false
+            },
+            {
+                "text": "Buddha",
+                "emoji": "🧘‍♂️",
+                "discovered": false
+            },
+            {
+                "text": "Enlightenment",
+                "emoji": "💡",
+                "discovered": false
+            },
+            {
+                "text": "Monk",
+                "emoji": "🧘‍♂️",
+                "discovered": false
+            },
+            {
+                "text": "Monastery",
+                "emoji": "🏯",
+                "discovered": false
+            },
+            {
+                "text": "Cathedral",
+                "emoji": "⛪",
+                "discovered": false
+            },
+            {
+                "text": "Pottery",
+                "emoji": "🏺",
+                "discovered": false
+            },
+            {
+                "text": "Vase",
+                "emoji": "🏺",
+                "discovered": false
+            },
+            {
+                "text": "Clay",
+                "emoji": "🏺",
+                "discovered": false
+            },
+            {
+                "text": "Brick",
+                "emoji": "🧱",
+                "discovered": false
+            },
+            {
+                "text": "Wall",
+                "emoji": "🧱",
+                "discovered": false
+            },
+            {
+                "text": "Golem",
+                "emoji": "🏛️",
+                "discovered": false
+            },
+            {
+                "text": "Troll",
+                "emoji": "👹",
+                "discovered": false
+            },
+            {
+                "text": "Ninja Turtle",
+                "emoji": "🐢",
+                "discovered": false
+            },
+            {
+                "text": "Buddha Turtle",
+                "emoji": "🐢",
+                "discovered": false
+            },
+            {
+                "text": "Leonardo",
+                "emoji": "🐢",
+                "discovered": false
+            },
+            {
+                "text": "Mona Lisa",
+                "emoji": "🖼️",
+                "discovered": false
+            },
+            {
+                "text": "Monk Lisa",
+                "emoji": "🧘‍♀️",
+                "discovered": false
+            },
+            {
+                "text": "Splinter",
+                "emoji": "🐀",
+                "discovered": false
+            },
+            {
+                "text": "Wood",
+                "emoji": "🌲",
+                "discovered": false
+            },
+            {
+                "text": "Pencil",
+                "emoji": "✏️",
+                "discovered": false
+            },
+            {
+                "text": "David",
+                "emoji": "🐉",
+                "discovered": false
+            },
+            {
+                "text": "Art",
+                "emoji": "🎨",
+                "discovered": false
+            },
+            {
+                "text": "Masterpiece",
+                "emoji": "🎨",
+                "discovered": false
+            },
+            {
+                "text": "Paint",
+                "emoji": "🎨",
+                "discovered": false
+            },
+            {
+                "text": "Michelangelo",
+                "emoji": "🎨",
+                "discovered": false
+            },
+            {
+                "text": "Goliath",
+                "emoji": "🐘",
+                "discovered": false
+            },
+            {
+                "text": "Slingshot",
+                "emoji": "🏹",
+                "discovered": false
+            },
+            {
+                "text": "Pinocchio",
+                "emoji": "🤥",
+                "discovered": false
+            },
+            {
+                "text": "Puppet",
+                "emoji": "🧸",
+                "discovered": false
+            },
+            {
+                "text": "Painting",
+                "emoji": "🎨",
+                "discovered": false
+            },
+            {
+                "text": "Artist",
+                "emoji": "🎨",
+                "discovered": false
+            },
+            {
+                "text": "Meditation",
+                "emoji": "🧘‍♀️",
+                "discovered": false
+            },
+            {
+                "text": "Yoga",
+                "emoji": "🧘‍♀️",
+                "discovered": false
+            },
+            {
+                "text": "Yoga Konga",
+                "emoji": "🧘‍♀️🦍",
+                "discovered": false
+            },
+            {
+                "text": "Pinocchio Konga",
+                "emoji": "🤥",
+                "discovered": false
+            },
+            {
+                "text": "Painter",
+                "emoji": "🎨",
+                "discovered": false
+            },
+            {
+                "text": "Zen",
+                "emoji": "🧘‍♀️",
+                "discovered": false
+            },
+            {
+                "text": "YogaZen",
+                "emoji": "🧘‍♀️",
+                "discovered": false
+            },
+            {
+                "text": "Luigi",
+                "emoji": "👾",
+                "discovered": false
+            },
+            {
+                "text": "Mario Bros",
+                "emoji": "🍄",
+                "discovered": false
+            },
+            {
+                "text": "Mario Zen",
+                "emoji": "🎮",
+                "discovered": false
+            },
+            {
+                "text": "Yogi",
+                "emoji": "🧘‍♀️",
+                "discovered": false
+            },
+            {
+                "text": "Yogurt",
+                "emoji": "🍦",
+                "discovered": false
+            },
+            {
+                "text": "Lies",
+                "emoji": "🤥",
+                "discovered": false
+            },
+            {
+                "text": "Cheese",
+                "emoji": "🧀",
+                "discovered": false
+            },
+            {
+                "text": "Cheesecake",
+                "emoji": "🍰",
+                "discovered": false
+            },
+            {
+                "text": "Culture",
+                "emoji": "🎭",
+                "discovered": false
+            },
+            {
+                "text": "Nintendo",
+                "emoji": "🎮",
+                "discovered": false
+            },
+            {
+                "text": "Wii",
+                "emoji": "🎮",
+                "discovered": false
+            },
+            {
+                "text": "Wii Sports",
+                "emoji": "🎮",
+                "discovered": false
+            },
+            {
+                "text": "Wii U",
+                "emoji": "🎮",
+                "discovered": false
+            },
+            {
+                "text": "Wii Sports Club",
+                "emoji": "🎮",
+                "discovered": false
+            },
+            {
+                "text": "Lii",
+                "emoji": "🌸",
+                "discovered": false
+            },
+            {
+                "text": "LiiWii",
+                "emoji": "🎮",
+                "discovered": false
+            },
+            {
+                "text": "Wii Fit",
+                "emoji": "🏋️‍♀",
+                "discovered": false
+            },
+            {
+                "text": "Tennis",
+                "emoji": "🎾",
+                "discovered": false
+            },
+            {
+                "text": "Match",
+                "emoji": "🔥",
+                "discovered": false
+            },
+            {
+                "text": "Matcha",
+                "emoji": "🍵",
+                "discovered": false
+            },
+            {
+                "text": "Tennis Court",
+                "emoji": "🎾",
+                "discovered": false
+            },
+            {
+                "text": "Racquet",
+                "emoji": "🎾",
+                "discovered": false
+            },
+            {
+                "text": "Serena Williams",
+                "emoji": "🎾",
+                "discovered": false
+            },
+            {
+                "text": "Wimbledon",
+                "emoji": "🎾",
+                "discovered": false
+            },
+            {
+                "text": "Serve",
+                "emoji": "🍽️",
+                "discovered": false
+            },
+            {
+                "text": "Service",
+                "emoji": "🛠️",
+                "discovered": false
+            },
+            {
+                "text": "Matching",
+                "emoji": "👯",
+                "discovered": false
+            },
+            {
+                "text": "Waiter",
+                "emoji": "🍴",
+                "discovered": false
+            },
+            {
+                "text": "Ace",
+                "emoji": "🃏",
+                "discovered": false
+            },
+            {
+                "text": "Zen Master",
+                "emoji": "🧘‍♂️",
+                "discovered": false
+            },
+            {
+                "text": "Tip",
+                "emoji": "💡",
+                "discovered": false
+            },
+            {
+                "text": "Poker",
+                "emoji": "🃏",
+                "discovered": false
+            },
+            {
+                "text": "Royal Flush",
+                "emoji": "👑",
+                "discovered": false
+            },
+            {
+                "text": "Win",
+                "emoji": "🏆",
+                "discovered": false
+            },
+            {
+                "text": "Trophy",
+                "emoji": "🏆",
+                "discovered": false
+            },
+            {
+                "text": "Gambler",
+                "emoji": "🎲",
+                "discovered": false
+            },
+            {
+                "text": "Casino",
+                "emoji": "🎰",
+                "discovered": false
+            },
+            {
+                "text": "Money",
+                "emoji": "💵",
+                "discovered": false
+            },
+            {
+                "text": "Gambling",
+                "emoji": "🎰",
+                "discovered": false
+            },
+            {
+                "text": "Poker Face",
+                "emoji": "😶",
+                "discovered": false
+            },
+            {
+                "text": "Poker U",
+                "emoji": "🃏",
+                "discovered": false
+            },
+            {
+                "text": "Poker Win",
+                "emoji": "🃏💰",
+                "discovered": true
+            },
+            {
+                "text": "Rich",
+                "emoji": "💰",
+                "discovered": false
+            },
+            {
+                "text": "Gold",
+                "emoji": "💛",
+                "discovered": false
+            },
+            {
+                "text": "Gold Bar",
+                "emoji": "💵",
+                "discovered": false
+            },
+            {
+                "text": "Gold Ingot",
+                "emoji": "🪙",
+                "discovered": false
+            },
+            {
+                "text": "Gold Coin",
+                "emoji": "💰",
+                "discovered": false
+            },
+            {
+                "text": "Richer",
+                "emoji": "💸",
+                "discovered": false
+            },
+            {
+                "text": "Champion",
+                "emoji": "🏆",
+                "discovered": false
+            },
+            {
+                "text": "Crown",
+                "emoji": "👑",
+                "discovered": false
+            },
+            {
+                "text": "Midas",
+                "emoji": "👑",
+                "discovered": false
+            },
+            {
+                "text": "Cheater",
+                "emoji": "💔",
+                "discovered": false
+            },
+            {
+                "text": "Gold Digger",
+                "emoji": "👑",
+                "discovered": false
+            },
+            {
+                "text": "Wife",
+                "emoji": "👰",
+                "discovered": false
+            },
+            {
+                "text": "Superhero",
+                "emoji": "🦸",
+                "discovered": false
+            },
+            {
+                "text": "Batman",
+                "emoji": "🦇",
+                "discovered": false
+            },
+            {
+                "text": "Trumpman",
+                "emoji": "💩",
+                "discovered": false
+            },
+            {
+                "text": "Twitter",
+                "emoji": "🐦",
+                "discovered": false
+            },
+            {
+                "text": "Tweet",
+                "emoji": "🐦",
+                "discovered": false
+            },
+            {
+                "text": "Supervillain",
+                "emoji": "🦹‍♂️",
+                "discovered": false
+            },
+            {
+                "text": "Harley Quinn",
+                "emoji": "💋",
+                "discovered": false
+            },
+            {
+                "text": "Joker",
+                "emoji": "🃏",
+                "discovered": false
+            },
+            {
+                "text": "Trumpette",
+                "emoji": "🐘",
+                "discovered": false
+            },
+            {
+                "text": "Ferrari",
+                "emoji": "🏎️",
+                "discovered": false
+            },
+            {
+                "text": "Speed",
+                "emoji": "💨",
+                "discovered": false
+            },
+            {
+                "text": "NASCAR",
+                "emoji": "🏁",
+                "discovered": false
+            },
+            {
+                "text": "Redneck",
+                "emoji": "🐷",
+                "discovered": false
+            },
+            {
+                "text": "Bubba",
+                "emoji": "🐸",
+                "discovered": false
+            },
+            {
+                "text": "Bubba Gump",
+                "emoji": "🐟",
+                "discovered": false
+            },
+            {
+                "text": "Forrest Gump",
+                "emoji": "🏃",
+                "discovered": false
+            },
+            {
+                "text": "Friendship",
+                "emoji": "👯",
+                "discovered": false
+            },
+            {
+                "text": "Bromance",
+                "emoji": "👬",
+                "discovered": false
+            },
+            {
+                "text": "Brotherhood",
+                "emoji": "👬",
+                "discovered": false
+            },
+            {
+                "text": "300: Rise of an Empire",
+                "emoji": "🏹",
+                "discovered": false
+            },
+            {
+                "text": "300: Rise Of A Nascar",
+                "emoji": "🏎️",
+                "discovered": true
+            },
+            {
+                "text": "Red Zeus",
+                "emoji": "🌋",
+                "discovered": false
+            },
+            {
+                "text": "Blue Zeus",
+                "emoji": "🌊",
+                "discovered": false
+            },
+            {
+                "text": "Bubba Zeus",
+                "emoji": "🤔",
+                "discovered": false
+            },
+            {
+                "text": "Jesus Mario",
+                "emoji": "🎮",
+                "discovered": false
+            },
+            {
+                "text": "Antichrist",
+                "emoji": "👹",
+                "discovered": false
+            },
+            {
+                "text": "Apocalypse",
+                "emoji": "🌋",
+                "discovered": false
+            },
+            {
+                "text": "Rapture",
+                "emoji": "🌌",
+                "discovered": false
+            },
+            {
+                "text": "Armageddon",
+                "emoji": "💥",
+                "discovered": false
+            },
+            {
+                "text": "Apocalypsageddon",
+                "emoji": "🌎",
+                "discovered": false
+            },
+            {
+                "text": "Golden Apocalypsageddon",
+                "emoji": "🌟",
+                "discovered": false
+            },
+            {
+                "text": "Captain Planet",
+                "emoji": "🌎",
+                "discovered": false
+            },
+            {
+                "text": "Captain Jesus",
+                "emoji": "⚓️🙏🏼",
+                "discovered": false
+            },
+            {
+                "text": "Bubba Jesus",
+                "emoji": "🤔",
+                "discovered": false
+            },
+            {
+                "text": "Christ",
+                "emoji": "👼",
+                "discovered": false
+            },
+            {
+                "text": "Jesus Kong",
+                "emoji": "👑",
+                "discovered": false
+            },
+            {
+                "text": "Rainbow Road",
+                "emoji": "🌈",
+                "discovered": false
+            },
+            {
+                "text": "Dragon Ball Z",
+                "emoji": "🐉",
+                "discovered": false
+            },
+            {
+                "text": "Goku",
+                "emoji": "👊",
+                "discovered": false
+            }
+        ],
+        "darkMode": true
+    }
+}
