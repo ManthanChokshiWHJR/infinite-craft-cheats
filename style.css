@@ -1,0 +1,31 @@
+#form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input[type='submit'] {
+  width: 120px;
+}
+
+input[name='emoji'] {
+  width: 18px;
+  text-align: center;
+}
+
+input[name='object'] {
+  width: 100px;
+}
+
+.output {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
